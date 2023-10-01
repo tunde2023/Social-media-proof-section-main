@@ -1,1 +1,2 @@
-# Social-media-proof-section-main
+# Social-media-proof-section
+Social media proof section with display grid
